@@ -12,3 +12,6 @@ Weather app is one of the best beginner friendly project to get started with Rea
 <strong>Links for references</strong>
 * [https://levelup.gitconnected.com/weather-app-in-react-js-ca668ae86b14](https://levelup.gitconnected.com/weather-app-in-react-js-ca668ae86b14)
 * [https://www.youtube.com/watch?v=GuA0_Z1llYU](https://www.youtube.com/watch?v=GuA0_Z1llYU)
+
+### QuizBuilder : 
+Build a quiz-crafting tool. It will be the go to place to make viral quizzes like those from Buzzfeed or the infamous “Harry Potter House Sorting Quiz.
